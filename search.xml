@@ -171,11 +171,11 @@
             
             <tag> 域渗透 </tag>
             
+            <tag> Kerberos </tag>
+            
             <tag> Solr </tag>
             
             <tag> AD CS </tag>
-            
-            <tag> Kerberos </tag>
             
         </tags>
       
@@ -239,9 +239,9 @@
             
             <tag> 域渗透 </tag>
             
-            <tag> Kerberos </tag>
-            
             <tag> MSSQL </tag>
+            
+            <tag> Kerberos </tag>
             
             <tag> RDP </tag>
             
