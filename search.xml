@@ -167,15 +167,15 @@
       
         <tags>
             
-            <tag> SMB </tag>
-            
-            <tag> 域渗透 </tag>
-            
             <tag> Solr </tag>
             
             <tag> AD CS </tag>
             
+            <tag> SMB </tag>
+            
             <tag> Kerberos </tag>
+            
+            <tag> 域渗透 </tag>
             
         </tags>
       
@@ -200,15 +200,15 @@
       
         <tags>
             
-            <tag> Redis </tag>
-            
-            <tag> Brute Force </tag>
-            
             <tag> SMB </tag>
+            
+            <tag> 域渗透 </tag>
             
             <tag> Privilege Elevation </tag>
             
-            <tag> 域渗透 </tag>
+            <tag> Redis </tag>
+            
+            <tag> Brute Force </tag>
             
             <tag> 春秋云境Brute4Road </tag>
             
@@ -235,13 +235,13 @@
       
         <tags>
             
-            <tag> Privilege Elevation </tag>
+            <tag> Kerberos </tag>
             
             <tag> 域渗透 </tag>
             
-            <tag> Kerberos </tag>
-            
             <tag> MSSQL </tag>
+            
+            <tag> Privilege Elevation </tag>
             
             <tag> RDP </tag>
             
